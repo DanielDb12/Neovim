@@ -1,0 +1,5 @@
+require ("plugins.treesitter")
+require("plugins.nvimtree")
+require("plugins.telescope")
+require("plugins.jdtls")
+require("plugins.coc")
